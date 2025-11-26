@@ -5,16 +5,17 @@
     <a>Sejeong Jang</a>
     &nbsp;·&nbsp;
     <a>Hyo Kyung Lee</a>
-<p align="center" style="background:#f5f5f5; padding:12px 18px; display:inline-block; border-radius:8px;">
+<p align="center">
   <a href="https://dahs.korea.ac.kr/">
-    <img src="logo.png" alt="DAHS Lab" height="60"/>
+    <img src="logo_light.png" alt="DAHS Lab" height="60"/>
   </a>
   <br>
-  <span style="font-size:14px; color:#000;">
+  <span style="font-size:14px; color:#f0f0f0;">
     <b>DAHS Lab</b> · Data Analytics & Healthcare Systems Laboratory<br>
     Korea University
   </span>
 </p>
+
 
 
 
