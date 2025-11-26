@@ -13,5 +13,5 @@
 </p>
 
 <p align="center">
-  <img src="./img/Model_Framework.jpg" width="800">
+  <img src="./Model_Framework.jpg" width="800">
 </p>
