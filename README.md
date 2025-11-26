@@ -2,12 +2,12 @@
   <h1 align="center">PULSE-ICU: A Pretrained Unified Long-Sequence Encoder for Multi-task Prediction in Intensive Care Units
 </h1>
  <p align="center">
-    <a href="">Sejeong Jang</a>
+    <a>Sejeong Jang</a>
     &nbsp;·&nbsp;
-    <a href="">Hyo Kyung Lee</a>
+    <a>Hyo Kyung Lee</a>
   </p>
   <p align="center">
-  <a href="https://dahs.korea.ac.kr/"> >DAHS</a>
+  <a href="https://dahs.korea.ac.kr/"> DAHS</a>
   </p>  
 <br>
 </p>
