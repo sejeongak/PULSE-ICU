@@ -7,7 +7,7 @@
     <a>Hyo Kyung Lee</a>
 <p align="center">
   <a href="https://dahs.korea.ac.kr/">
-    <img src="logo_light.png" alt="DAHS Lab" height="60"/>
+    <img src="logo.png" alt="DAHS Lab" height="60"/>
   </a>
   <br>
   <span style="font-size:14px; color:#f0f0f0;">
