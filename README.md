@@ -6,7 +6,9 @@
     &nbsp;·&nbsp;
     <a href="">Hyo Kyung Lee</a>
   </p>
-  <h3 href="https://dahs.korea.ac.kr/"> align="center">DAHS</h3>
+  <p align="center">
+  <a href="https://dahs.korea.ac.kr/"> >DAHS</a>
+  </p>  
 <br>
 </p>
 
