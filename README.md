@@ -6,10 +6,16 @@
     &nbsp;·&nbsp;
     <a>Hyo Kyung Lee</a>
   <p align="center">
-  <a href="https://dahs.korea.ac.kr/" style="background:#B00020; color:white; padding:8px 14px; border-radius:6px; text-decoration:none; font-weight:600;">
-    Visit DAHS Lab
+  <a href="https://dahs.korea.ac.kr/">
+    <img src="logo.png" alt="DAHS Lab" height="60"/>
   </a>
+  <br>
+  <span style="font-size:14px;">
+    <b>DAHS Lab</b> · Data Analytics & Healthcare Systems Laboratory<br>
+    Korea University
+  </span>
 </p>
+
 
 <br>
 </p>
