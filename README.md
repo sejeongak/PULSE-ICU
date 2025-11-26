@@ -7,8 +7,8 @@
   </a>
   <br>
   <span style="font-size:14px; color:#f0f0f0;">
-    <b>DAHS Lab</b> 
-    <b>Data Analytics & Healthcare Systems Laboratory</b>
+    <b>DAHS Lab</b> <br>
+    <b>Data Analytics & Healthcare Systems Lab</b> <br>
     Korea University
   </span>
 </p>
